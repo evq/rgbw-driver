@@ -4724,11 +4724,11 @@ Source: http://eshop.phoenixcontact.de</description>
 <part name="J2" library="SparkFun3" deviceset="M20" device=""/>
 <part name="FRAME1" library="SparkFun3" deviceset="FRAME-A3" device=""/>
 <part name="R5" library="resistor" deviceset="R-US_" device="R0805" value="1K"/>
-<part name="Q1" library="transistors" deviceset="IRLL*" device="" technology="014"/>
+<part name="Q1" library="transistors" deviceset="IRLL*" device="" technology="014" value="STN4NF03L"/>
 <part name="R1" library="resistor" deviceset="R-US_" device="R0805" value="1M"/>
-<part name="Q2" library="transistors" deviceset="IRLL*" device="" technology="014"/>
-<part name="Q3" library="transistors" deviceset="IRLL*" device="" technology="014"/>
-<part name="Q4" library="transistors" deviceset="IRLL*" device="" technology="014"/>
+<part name="Q2" library="transistors" deviceset="IRLL*" device="" technology="014" value="STN4NF03L"/>
+<part name="Q3" library="transistors" deviceset="IRLL*" device="" technology="014" value="STN4NF03L"/>
+<part name="Q4" library="transistors" deviceset="IRLL*" device="" technology="014" value="STN4NF03L"/>
 <part name="R2" library="resistor" deviceset="R-US_" device="R0805" value="1M"/>
 <part name="R3" library="resistor" deviceset="R-US_" device="R0805" value="1M"/>
 <part name="R4" library="resistor" deviceset="R-US_" device="R0805" value="1M"/>

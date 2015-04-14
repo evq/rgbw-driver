@@ -18,5 +18,5 @@ Shared on [OSH Park.](https://oshpark.com/shared_projects/hxdjCOfY)
 
 ## Design notes
 Polygon pours and thermal vias to help with any heat management issues.
-Untested, waiting for board from OSH Park. Designed to use the STN4NF03L
+Tested, board was produced by OSH Park. Designed to use the STN4NF03L
 SOT-223 SMT N Channel MOSFET, but others could be substituted appropriately.
