@@ -4,7 +4,7 @@ A four channel LED driver board, designed for use with the Maple Mini
 and other generic STM32F103 boards available on ebay and aliexpress. Shield
 format, expecting PWM input from pins 8-11.
 
-Shared on [OSH Park.](https://oshpark.com/shared_projects/hxdjCOfY)
+Shared on [OSH Park.](https://oshpark.com/shared_projects/4kCE6LhM)
 
 ![Board top](board_top.png) ![Board bottom](board_bot.png)
 
