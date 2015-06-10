@@ -20,3 +20,8 @@ Shared on [OSH Park.](https://oshpark.com/shared_projects/hxdjCOfY)
 Polygon pours and thermal vias to help with any heat management issues.
 Tested, board was produced by OSH Park. Designed to use the STN4NF03L
 SOT-223 SMT N Channel MOSFET, but others could be substituted appropriately.
+
+Designed to allow substitution with
+right angle female pin header as surface mount to allow for mounting
+of larger heatsink on the back. "LM2596 style" heatsinks (50mm x 25mm x 10mm) work
+great.
